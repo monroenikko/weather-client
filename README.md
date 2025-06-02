@@ -20,6 +20,14 @@ This application is built with Laravel framework and integrated from the 3rd par
 - Node.js (>= 21.x)
 - npm or yarn
 
+- **Clone the repository**
+
+  ```bash
+  git clone https://github.com/monroenikko/weather-client.git
+  cd weather-client
+
+  ```
+
 ```sh
 npm install
 ```
