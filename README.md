@@ -28,25 +28,29 @@ This application is built with Laravel framework and integrated from the 3rd par
 
   ```
 
+- **Install Dependencies**
+
 ```sh
 npm install
 ```
+
+- **Create .env**
 
 ```sh
 touch .env
 ```
 
-### Add Base URL from the Backend API in the .env file
+- **Add Base URL from the Backend API in the .env file**
 
 VITE_BASE_URL=http://localhost:8000/api
 
-### Compile and Hot-Reload for Development
+- **Compile and Hot-Reload for Development**
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+- **Compile and Minify for Production**
 
 ```sh
 npm run build
